@@ -35,12 +35,13 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **TABULATION:**
 
-<img width="360" height="253" alt="image" src="https://github.com/user-attachments/assets/f823a71f-b44f-45dc-8805-e2ffb2ecaaf0" />
+<img width="348" height="302" alt="image" src="https://github.com/user-attachments/assets/ea4c675f-7fe6-4b06-a001-5326b5a87357" />
 
 **Calculation:**
 
-<img width="371" height="347" alt="image" src="https://github.com/user-attachments/assets/8c1d5555-5c4d-4ff2-83ef-319568c0d9cf" />
-<img width="357" height="403" alt="image" src="https://github.com/user-attachments/assets/22b0e4b3-996e-4df1-8c2b-a8eb7d9fa337" />
+<img width="351" height="308" alt="image" src="https://github.com/user-attachments/assets/2dbb4d04-7b7c-4ff7-9100-fa5bdefc6b0a" />
+<img width="709" height="1280" alt="image" src="https://github.com/user-attachments/assets/76533a0a-eb71-457f-806c-7d169a7e98bb" />
+<img width="403" height="245" alt="image" src="https://github.com/user-attachments/assets/4b6642a9-71db-4a08-b2cf-e79c9132f275" />
 
 **GRAPH**
 
@@ -59,7 +60,7 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **Mark split up:**
 
-<img width="407" height="267" alt="image" src="https://github.com/user-attachments/assets/85146325-60ff-4600-8c54-4ba7a969e87c" />
+<img width="771" height="1280" alt="image" src="https://github.com/user-attachments/assets/c6102718-384e-4fcc-8131-d4cd36adc84e" />
 
 **RESULT:**
 
